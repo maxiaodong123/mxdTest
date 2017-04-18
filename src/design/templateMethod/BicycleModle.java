@@ -4,6 +4,7 @@
 package design.templateMethod;
 
 /**
+ * 模版方法模式
  * @author mxd
  * 2017-4-18
  * 汽车模型 抽象类
