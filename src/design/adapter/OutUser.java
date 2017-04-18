@@ -7,8 +7,9 @@ import java.util.Map;
  * 外部用户信息对象实现类
  * Created by maxiaodong on 2017/4/17.
  */
+@SuppressWarnings("all")
 public class OutUser implements IOutUser{
-    @Override
+	@Override
     public Map getUserInfo() {
         Map info = new HashMap();
 
