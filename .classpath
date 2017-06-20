@@ -20,5 +20,6 @@
 	<classpathentry kind="lib" path="web/WEB-INF/lib/spring-tx-3.2.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="web/WEB-INF/lib/spring-webflow-2.3.0.RELEASE.jar"/>
 	<classpathentry kind="lib" path="web/WEB-INF/lib/spring-webmvc-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/activemq-all-5.14.5.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
